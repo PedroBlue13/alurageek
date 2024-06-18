@@ -1,0 +1,15 @@
+{
+  "name": "challenge-one-alurageek-main",
+  "version": "1.0.0",
+  "description": "challenge-one-AluraGeek - Turma 6 Oracle Next Education + Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
